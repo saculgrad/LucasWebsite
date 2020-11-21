@@ -1,0 +1,12 @@
+table { /*Styles tables. h=500, w=250, thin black border everywhere*/
+  height: 500px;
+  width: 250px;
+
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
